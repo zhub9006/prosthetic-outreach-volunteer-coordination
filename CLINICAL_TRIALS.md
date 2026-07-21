@@ -50,6 +50,37 @@
 - **Relevance**: Provides framework for outreach in underserved and conflict-affected regions
 - **Tags**: Conflict Zone, Access, Quality of Life, Global Outreach
 
+### 7. NCT04700085 — Reverse Innovation: the ReMotion Prosthetic Knee
+- **Sponsor**: Sint Maartenskliniek
+- **Status**: Completed
+- **Focus**: Affordable $80 mechanical prosthetic knee for lower limb amputees; reverse innovation from low-income to high-income settings
+- **Key Innovation**: Polycentric mechanical knee at $80 (vs. $1,000-$.000 for standard mechanical knees); ISO 10328 certified and CE Mark approved
+- **Relevance**: Demonstrates cost-effective prosthetic knee suitable for both developing and developed countries; established framework for reverse innovation in prosthetics
+- **Tags**: Reverse Innovation, Lower Limb, Mechanical Knee, Affordable, $80
+
+### 8. NCT01641549 — Surgery Versus Fibrinolytic Therapy for Prosthetic Heart Valve Thrombosis
+- **Sponsor**: University of Cape Town
+- **Status**: Unknown
+- **Focus**: Cost-effectiveness comparison of surgery vs. clot-busting drugs for clotted mechanical heart valves in developing countries
+- **Key Innovation**: First randomized controlled trial comparing emergency surgery to thrombolytic therapy; addresses cost and accessibility barriers to surgical treatment
+- **Relevance**: Important for the cost-effectiveness aspect of the outreach initiative; informs decisions about cardiovascular prosthetic care in resource-limited regions
+- **Tags**: Cost-Effectiveness, Developing Countries, Prosthetic Valve, Surgery vs. Thrombolysis
+
+## Additional Searches Conducted
+- "prosthetic limb amputation" — returned general prosthetic studies
+- "prosthetic developing countries affordable" — returned socket fabrication and valve studies
+- "prosthetic 3d printing affordable" — returned dental and orthopedic studies
+- "prosthetic upper limb affordable developing" — returned body-powered prosthesis studies
+
+## Cost Reduction Methodologies Summary
+| Approach | Example Trial | Cost Reduction |
+|----------|--------------|----------------|
+| Expanded foam socket | NCT04725461 | Replace traditional socket fabrication |
+| 3D-printed digital workflow | NCT03517774 | Reduce fitting time 5→1.5 days |
+| Body-powered mechanical design | NCT05220553 | £1200 vs £20K–£75K |
+| AI + 3D printing | NCT07437664 | Low-cost custom manufacturing |
+| Reverse innovation (low-income to high-income) | NCT04700085 | $80 vs $1K–$5K |
+
 ## How to Contribute
 - Add newly discovered trials to this file
 - Verify trial eligibility requirements for community outreach matching
